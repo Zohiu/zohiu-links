@@ -20,7 +20,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: remove old version
-      run: sftp ${{ secrets.USER }}@${{ secrets.HOST }} <<< $'rm /public_html/links/'
+      run: sftp ${{ secrets.USER }}@${{ secrets.HOST }} <<< $'rm /public_html/links/*'
     - name: upload new version
       run: scp -r . ${{ secrets.USER }}@${{ secrets.HOST }}:/public_html/links/
     - name: cleanup
