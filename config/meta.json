@@ -1,8 +1,8 @@
 {
     "about": "A simple, self-hosted service for web links – themable, easy to customize and resource-efficient",
-    "favicon": "assets/favicon.svg",
+    "favicon": "https://share.zohiu.de/apps/files_sharing/publicpreview/assets?file=/zohiu_pfp.png",
     "language": "english",
-    "name": "LinkLoom",
-    "picture": "assets/logo.svg",
-    "title": "LinkLoom"
+    "name": "Zohiu",
+    "picture": "https://share.zohiu.de/apps/files_sharing/publicpreview/assets?file=/zohiu_pfp_transparent.png&x=500&y=500",
+    "title": "Zohiu"
 }

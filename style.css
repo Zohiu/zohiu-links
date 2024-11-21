@@ -111,7 +111,6 @@ main {
 }
 
 #picture img {
-    border-radius: 50%;
     display: block;
     height: 128px;
     margin: 40px auto 20px;

@@ -13,20 +13,4 @@
 
 ## About
 
-<!-- markdownlint-disable MD033 -->
-<img src="assets/screenshot1.png" width="500" alt=" "/>
-<!-- markdownlint-enable MD033 -->
-
-LinkLoom is a simple, self-hosted service for web links. It is themable (including animated wallpapers), easy to customize and resource-efficient. It follows the same approach as Linktree, but is free, has more configuration options and does not analyze user data.
-
-## How to use
-
-All information on how to deploy and configure LinkLoom can be found in the [wiki](https://github.com/nandolawson/LinkLoom/wiki) of this repository.
-
-## License
-
-This project is licensed under the GPL v3. You can read the license [here](https://github.com/nandolawson/LinkLoom/blob/master/LICENSE).
-
-## Contribution
-
-Anyone who wants to contribute is more than welcome to do so. Please feel free to create a pull request here on GitHub. If you decide to fork this project, please make sure to adhere to the license. Your involvement and feedback are highly appreciated!
+This is a fork for my personal usage. If you want to use LinkLoom, please visit [this link](https://github.com/nandolawson/LinkLoom/) instead.

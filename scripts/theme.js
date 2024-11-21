@@ -12,14 +12,13 @@ const wallpapers = {
     brokenglass: (wallpaperconfig) => {
         const wallpaper = document.createElement("div");
         for (let amount = 0; amount < wallpaperconfig.amount; amount++) {
-            const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg"),
-                polygon = document.createElementNS(svg.namespaceURI,'polygon'),
-                wrapper = document.createElement("div");
-            Object.assign(svg.setAttribute, {
-                height: `${wallpaperconfig.size}vh`,
-                viewBox: "0 0 100 100",
-                width: `${wallpaperconfig.size}vw`
-            });
+            let svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
+            const polygon = document.createElementNS(svg.namespaceURI,'polygon')
+            const wrapper = document.createElement("div");
+
+            svg.setAttribute("height", `${wallpaperconfig.size}vh`);            
+            svg.setAttribute("width", `${wallpaperconfig.size}vh`);            
+            svg.setAttribute("viewBox", "0 0 100 100");
 
             Object.assign(wrapper.style, {
                 left: `${Math.random() * 100}%`,

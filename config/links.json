@@ -1,32 +1,77 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
-    },
-    {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
-    },
-    {
-        "url": "https://youtube.com",
+        "url": "https://www.youtube.com/channel/UCMiR4h60k6DJPrWgvTY6soQ",
         "text": "YouTube",
         "icon": "fa-brands fa-youtube fa-lg"
     },
     {
-        "url": "https://instagram.com",
-        "text": "Instagram",
-        "icon": "fa-brands fa-instagram fa-lg"
+        "url": "https://music.youtube.com/channel/UCMiR4h60k6DJPrWgvTY6soQ",
+        "text": "YouTube Music",
+        "icon": "fa-brands fa-youtube fa-lg"
     },
     {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
-        "icon": "fa-brands fa-bluesky"
+        "url": "https://music.apple.com/us/artist/zohiu/1650964598",
+        "text": "Apple Music",
+        "icon": "fa-brands fa-apple fa-lg"
     },
     {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
+        "url": "https://open.spotify.com/artist/79sP0BbLIwBFAa5lxoBxYv?si=LMgwFvotTgqYX-AKZ89klw&nd=1",
+        "text": "Spotify",
+        "icon": "fa-brands fa-spotify fa-lg"
+    },
+    {
+        "url": "https://music.amazon.de/artists/B0BK36JKKK/zohiu",
+        "text": "Amazon Music",
+        "icon": "fa-brands fa-amazon fa-lg"
+    },
+    {
+        "url": "https://www.last.fm/music/Zohiu",
+        "text": "Last.fm",
+        "icon": "fa-brands fa-lastfm fa-lg"
+    },
+    {
+        "url": "https://soundcloud.com/zohiu",
+        "text": "SoundCloud",
+        "icon": "fa-brands fa-soundcloud fa-lg"
+    },
+    {
+        "url": "https://discord.gg/zhKCXVZdVD",
+        "text": "Discord",
+        "icon": "fa-brands fa-discord fa-lg"
+    },
+    {
+        "url": "https://steamcommunity.com/id/Zohiu",
+        "text": "Steam",
+        "icon": "fa-brands fa-steam fa-lg"
+    },
+    {
+        "url": "https://www.twitch.tv/zohiu",
+        "text": "Twitch",
+        "icon": "fa-brands fa-twitch fa-lg"
+    },
+    {
+        "url": "https://gamejolt.com/@Zohiu",
+        "text": "GameJolt",
+        "icon": "fa-solid fa-play-circle fa-lg"
+    },
+    {
+        "url": "https://www.reddit.com/user/Zohiu/",
+        "text": "Reddit",
+        "icon": "fa-brands fa-reddit fa-lg"
+    },
+    {
+        "url": "mailto:mail@zohiu.de",
+        "text": "Email Me",
+        "icon": "fa-solid fa-envelope fa-lg"
+    },
+    {
+        "url": "https://zohiu.de",
+        "text": "Visit Website",
+        "icon": "fa-solid fa-globe fa-lg"
+    },
+    {
+        "url": "https://github.com/Zohiu",
+        "text": "GitHub",
+        "icon": "fa-brands fa-github fa-lg"
     }
 ]
