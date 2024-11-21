@@ -19,7 +19,9 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
-    - name: connect and upload
+    - name: remove old version
+      run: sftp ${{ secrets.USER }}@${{ secrets.HOST }} <<< $'rm /public_html/links/'
+    - name: upload new version
       run: scp -r . ${{ secrets.USER }}@${{ secrets.HOST }}:/public_html/links/
     - name: cleanup
       run: rm -rf ~/.ssh
